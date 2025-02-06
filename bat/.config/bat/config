@@ -1,0 +1,12 @@
+# Set the theme to "TwoDark"
+--theme="Catppuccin Mocha"
+
+--line-range=:1000 
+
+--style="plain,header,header-filename,grid,header-filesize"
+
+# Use italic text on the terminal (not supported on all terminals)
+--italic-text=always
+
+# Use C++ syntax for Arduino .ino files
+#--map-syntax "*.ino:C++"
